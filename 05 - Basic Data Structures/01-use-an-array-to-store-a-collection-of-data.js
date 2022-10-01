@@ -1,0 +1,1 @@
+let yourArray = ['s', 3n, true, null, 3]; // Change this line
